@@ -1,5 +1,5 @@
 import React from 'react';
-import zelda from '../images/zelda.png'
+import zelda from '../images/zelda.png';
 
 const Dashboard = () => (
   <div>
